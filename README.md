@@ -13,9 +13,10 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
+//O valor de SONA é: 91
 ```
 
-##2 Sequência de Fibonacci:
+## 2- Sequência de Fibonacci:
 ```
 function SequenciaFiboracci(numero) {
     let ant = 0;
@@ -45,7 +46,7 @@ if (pertence){
 }
 ```
 
-## 3 Sequencias Lógicas:
+## 3- Sequencias Lógicas:
 
 a) 1, 3, 5, 7, 9, 11, 13.... Lógica: Incremento constante de 2.
 
@@ -60,7 +61,7 @@ e) 1, 1, 2, 3, 5, 8, 13, 21, 34... Lógica: sequência de Fibonacci.
 f) 2,10, 12, 16, 17, 18, 19, não consegui.
 
 
-##4- Lógica Sala das Lâmpadas:
+## 4- Lógica Sala das Lâmpadas:
 
 Primeira ida:
 Ligue o primeiro interruptor e espere alguns minutos antes de desligá-lo e ligue o segundo interruptor.
@@ -81,7 +82,7 @@ c. Se a lâmpada estiver apagada e estiver fria, então o interruptor que você 
 
 Dessa forma, você terá determinado qual interruptor controla cada lâmpada em apenas duas idas até a sala das lâmpadas.
 
-##5- Inverter String:
+## 5- Inverter String:
 ````
 function inverterString(str) {
     let resultado = '';
