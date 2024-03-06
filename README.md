@@ -2,7 +2,7 @@
 Teste para estágio na Target Sistemas (JavaScript)
 
 ## 1- SOMA:
-```javascript
+```
 let INDICE = 13;
 let SOMA = 0;
 let K = 0;
@@ -13,10 +13,10 @@ while (K < INDICE) {
 }
 
 console.log(SOMA);
-
+```
 
 ##2 Sequência de Fibonacci:
-
+```
 function SequenciaFiboracci(numero) {
     let ant = 0;
     let atual = 1;
@@ -43,7 +43,7 @@ if (pertence){
 } else{
     console.log(`${numeroInformado} não pertence a sequencia de Fiboracci.`);
 }
-
+```
 
 ## 3 Sequencias Lógicas:
 
@@ -82,7 +82,7 @@ c. Se a lâmpada estiver apagada e estiver fria, então o interruptor que você 
 Dessa forma, você terá determinado qual interruptor controla cada lâmpada em apenas duas idas até a sala das lâmpadas.
 
 ##5- Inverter String:
-
+````
 function inverterString(str) {
     let resultado = '';
   
@@ -98,4 +98,4 @@ function inverterString(str) {
   const stringInvertida = inverterString(minhaString);
   
   console.log(stringInvertida);
-  
+  ```
