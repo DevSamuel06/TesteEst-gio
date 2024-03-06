@@ -99,4 +99,4 @@ function inverterString(str) {
   const stringInvertida = inverterString(minhaString);
   
   console.log(stringInvertida);
-  ```
+
