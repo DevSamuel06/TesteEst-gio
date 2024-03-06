@@ -2,7 +2,7 @@
 Teste para estágio na Target Sistemas (JavaScript)
 
 ## 1- SOMA:
-
+```javascript
 let INDICE = 13;
 let SOMA = 0;
 let K = 0;
